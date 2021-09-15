@@ -1,0 +1,9 @@
+.task2Div {
+    display: flex;
+    flex-direction: row;
+    color:grey
+}
+
+.dislike {
+    margin-left: 1.5rem;
+}

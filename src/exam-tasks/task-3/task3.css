@@ -1,0 +1,21 @@
+button {
+    border-radius: 10px;
+    display: block;
+    padding: 0.4rem 0;
+    width:190px;
+}
+
+.first {
+    background-color: lightblue;
+    border: none;
+}
+
+.second {
+    margin-top: 1rem;
+    background-color: white;
+    border: 1px solid lightblue;
+}
+
+.task3Div {
+    padding: 0rem 2rem;
+}
